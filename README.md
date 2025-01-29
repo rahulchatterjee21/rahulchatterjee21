@@ -18,12 +18,12 @@
 ---
 
 ## 📌 Featured Projects  
-### 1️⃣ [Financial Data Analysis and Dashboard Creation](https://github.com/rahulchatterjee21)  
-🔹 **Overview:** Analyzed financial data from Western countries, performed statistical analysis, and built an interactive **Power BI dashboard**.  
+### 📊 [Financial Data Analysis and Dashboard Creation](https://github.com/rahulchatterjee21)  
+🔹 **Overview:** Analyzed financial data from Western countries, performed statistical analysis, and built an interactive **Power BI dashboard.  
 🔹 **Tools Used:** SQL Server, Power BI, Excel  
 
-### 2️⃣ [COVID-19 Data Analysis and Dashboard](https://github.com/rahulchatterjee21)  
-🔹 **Overview:** Cleaned and analyzed a COVID-19 dataset (2,820 records), visualizing key trends using **Power BI and SQL Server**.  
+### 📊 [COVID-19 Data Analysis and Dashboard](https://github.com/rahulchatterjee21)  
+🔹 **Overview:** Cleaned and analyzed a COVID-19 dataset (2,820 records), visualizing key trends using **Power BI and SQL Server.  
 🔹 **Tools Used:** SQL Server, Power BI, Excel  
 
 ### 📊 [Retail Sales SQL Analysis](https://github.com/rahulchatterjee21/Retail-Sales-SQL-Analysis)  
