@@ -26,6 +26,10 @@
 🔹 **Overview:** Cleaned and analyzed a COVID-19 dataset (2,820 records), visualizing key trends using **Power BI and SQL Server**.  
 🔹 **Tools Used:** SQL Server, Power BI, Excel  
 
+### 📊 [Retail Sales SQL Analysis](https://github.com/rahulchatterjee21/Retail-Sales-SQL-Analysis)  
+🔹 **Overview:** Analyzed retail sales data using SQL to derive insights into sales performance, customer behaviour, and product trends. Cleaned and processed the dataset to ensure accuracy and reliability.  
+🔹 **Tools Used:** SQL, Excel  
+
 ---
 
 ## 📈 GitHub Stats  
