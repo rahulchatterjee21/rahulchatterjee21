@@ -32,11 +32,6 @@
 
 ---
 
-## 📈 GitHub Stats  
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulchatterjee21&show_icons=true&theme=dark)  
-
----
-
 ## 🏆 Certifications & Courses  
 - 📜 **Google Data Analytics Professional Certificate** *(In-progress)*  
 - 📜 **Python Programming - Coursera (2022)**  
